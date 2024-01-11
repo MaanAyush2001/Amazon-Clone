@@ -1,2 +1,3 @@
 # Amazon-Clone
-I made the Amazon clone by using HTML and CSS.
+Crafted and Built using HTML and CSS.
+I have created Frontend Design of an Amazon shopping App.
